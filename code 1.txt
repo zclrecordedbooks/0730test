@@ -1,4 +1,4 @@
 function
 {
-original code
+change_A
 }
