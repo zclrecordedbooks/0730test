@@ -1,4 +1,8 @@
 function
 {
+<<<<<<< HEAD
 original---------chang A
+=======
+original---------change B
+>>>>>>> branch_from_qa
 }
